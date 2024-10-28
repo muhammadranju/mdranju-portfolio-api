@@ -1,6 +1,6 @@
 require("dotenv").config();
 const http = require("http");
-const app = require("./src/app/app");
+const app = require("./src/app");
 const databaseConnection = require("./src/db/database");
 
 databaseConnection();

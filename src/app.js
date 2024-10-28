@@ -1,6 +1,6 @@
 const express = require("express");
 const app = express();
-const middleware = require("../middleware/middleware");
+const middleware = require("./app/middleware");
 
 // middleware.forEach((middleware) => {
 //   app.use(middleware);
