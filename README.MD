@@ -34,7 +34,6 @@ To create a new portfolio project, send a POST request to the `/projects` endpoi
     "name": "Md Ranju",
     "imageLink": "https://example.com/image.png"
   },
-  "slug": "md-ranju-portfolio-projects-api",
   "technologies": [
     "Javascript",
     "Node.js",
